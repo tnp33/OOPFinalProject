@@ -1,6 +1,6 @@
 # OOPFinalProject
 
-**Brief Summary of Project: **
+**Brief Summary of Project**
 
 Our project is an ATM system that performs the basic functions of a typical ATM machine. A user can withdraw cash, deposit cash, and/or check his or her balance after utilizing the machine. 
 
