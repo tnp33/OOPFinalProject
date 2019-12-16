@@ -45,4 +45,5 @@ Step 3:
   - ATM determines the total balance and proceeds with desired transaction type
   - ATM prints new total balance 
   - User can choose to log out or start a new transaction
+  
 
