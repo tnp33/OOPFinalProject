@@ -1,0 +1,28 @@
+--USER--
+Mandeep Arora
+123 College Ave
+marora1234@gmail.com
+OOP
+mandeeparora
+1234
+1000
+
+--USER--
+Tulsi Patel
+23 main street
+tulsirox@gmail.com
+Chef 
+tulsipatel
+2323
+500
+
+--USER--
+Henry Schmeding
+122 College Ave 
+Awsomehenry@gmail.com
+Professor
+henryschmeding
+1111
+100,000
+
+
