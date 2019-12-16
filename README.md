@@ -18,18 +18,16 @@ Our project is an ATM system that performs the basic functions of a typical ATM 
 
   *User Information must be in users.txt file before running program
 
-  *Input first and last name in all lowercase
-
 // Sample information to use :
            
-       Enter Name: bobsmith
+       Enter Name: mandeeparora
        Enter Pass: 1234
        
-       Enter Name:
-       Enter Pass: 
+       Enter Name: tulsipatel
+       Enter Pass: 2323
        
-       Enter Name:
-       Enter Pass: 
+       Enter Name: henryschmeding
+       Enter Pass: 1111
        
 Step 1:
   - User inputs name and pin
