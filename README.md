@@ -33,6 +33,7 @@ Our project is an ATM system that performs the basic functions of a typical ATM 
 Step 1:
   - User inputs name and pin
   - ATM verifies credentials
+
 Step 2:
   - ATM provides a list of transaction options for the user
   - User chooses the transaction type
@@ -40,6 +41,7 @@ Step 2:
   - User can Withdraw cash
   - User can Deposit cash
   - User can log out
+
 Step 3:
   - ATM determines the total balance and proceeds with desired transaction type
   - ATM prints new total balance 
