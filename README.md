@@ -16,9 +16,9 @@ Our project is an ATM system that performs the basic functions of a typical ATM 
 
 **Instructions on how to run and use the program**
 
-<User Information must be in users.txt file before running program>
-           
-<Input first and last name in all lowercase>
+*User Information must be in users.txt file before running program
+
+*Input first and last name in all lowercase
 
 // Sample information to use :
            
