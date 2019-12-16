@@ -1,13 +1,13 @@
 # OOPFinalProject
 
-**Brief Summary of the project: **
+**Brief Summary of Project: **
 
 Our project is an ATM system that performs the basic functions of a typical ATM machine. A user can withdraw cash, deposit cash, and/or check his or her balance after utilizing the machine. 
 
-**List of features of the program**
+**List of Features of the Program**
 
 -Reads user information from text file
--Validates pin code
+-Validates password
 -Allows user to input correct credentials 3 times
 -Withdraw cash based on desired amount
 -Deposit cash based on desired amount
@@ -20,11 +20,12 @@ Our project is an ATM system that performs the basic functions of a typical ATM 
 //Input first and last name in all lowercase
 
 // Sample information to use :
+           
        Enter Name: bobsmith
        Enter Pass: 1234
        
-       Enter Name: 
-       Enter Pass:
+       Enter Name:
+       Enter Pass: 
        
        Enter Name:
        Enter Pass: 
